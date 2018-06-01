@@ -1,0 +1,18 @@
+{
+  "services": [
+    {
+      "google":{
+        "service_description": "",
+        "legal_basis": "",
+        "usage": "",
+        "data_retention_perio": ""
+      },
+      "facebook": {
+        "service_description": "",
+        "legal_basis": "",
+        "usage": "",
+        "data_retention_perio": ""
+      }
+    }
+  ]
+}
