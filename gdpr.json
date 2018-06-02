@@ -1,5 +1,14 @@
 {
-  "services": [
+  "website_name": [
+    {
+      "data_retention_period": "",
+      "legal_basis": "",
+      "service": "website_name",
+      "service_description": "",
+      "usage": ""
+    },
+  ],
+  "third_party_services": [
     {
       "data_retention_period": "",
       "legal_basis": "",
