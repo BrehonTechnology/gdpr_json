@@ -1,9 +1,9 @@
 {
-  "website_name": [
+  "publisher": [
     {
       "data_retention_period": "",
       "legal_basis": "",
-      "service": "website_name",
+      "service": "",
       "service_description": "",
       "usage": ""
     },
