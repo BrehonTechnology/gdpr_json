@@ -2,26 +2,26 @@
   "publisher": [
     {
       "data_retention_period": "",
-      "legal_basis": "",
-      "service": "",
+      "legal_basis_for_use": "",
+      "service_name": "",
       "service_description": "",
-      "usage": ""
+      "data_is_used_to": ""
     },
   ],
   "third_party_services": [
     {
       "data_retention_period": "",
-      "legal_basis": "",
-      "service": "google",
+      "legal_basis_for_use": "",
+      "service_name": "",
       "service_description": "",
-      "usage": ""
+      "data_is_used_to": ""
     },
     {
       "data_retention_period": "",
-      "legal_basis": "",
-      "service": "facebook",
+      "legal_basis_for_use": "",
+      "service_name": "",
       "service_description": "",
-      "usage": ""
-    }
+      "data_is_used_to": ""
+    },
   ]
 }
